@@ -83,10 +83,8 @@ body {
 
   .review {
     width: clamp(370px, 40%, 400px);
-    height: 650px;
+    
   }
 
-  .review-bottom {
-    height: 450px;
-  }
+  
 }
