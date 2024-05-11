@@ -24,7 +24,7 @@ body {
 .review {
   background-color: white;
   width: clamp(370px, 40%, 400px);
-  height: 650px;
+
   border-radius: 20px;
 }
 
@@ -32,14 +32,10 @@ body {
   background-image: url(./images/illustration-hero.svg);
   background-repeat: no-repeat;
   background-size: contain;
-  height: 220px;
+  height: 190px;
   background-color: hsl(245, 75%, 52%);
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
-}
-
-.review-bottom {
-  height: 430px;
 }
 
 .mybtn {
@@ -83,8 +79,5 @@ body {
 
   .review {
     width: clamp(370px, 40%, 400px);
-    
   }
-
-  
 }
