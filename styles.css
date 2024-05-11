@@ -23,7 +23,7 @@ body {
 
 .review {
   background-color: white;
-  width: clamp(350px, 40%, 400px);
+  width: clamp(370px, 40%, 400px);
   height: 650px;
   border-radius: 20px;
 }
@@ -78,11 +78,11 @@ body {
   }
 
   .review-top {
-    height: 195px;
+    height: 190px;
   }
 
   .review {
-    width: clamp(350px, 40%, 400px);
+    width: clamp(370px, 40%, 400px);
     height: 650px;
   }
 
